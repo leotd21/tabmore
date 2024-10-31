@@ -1,0 +1,15 @@
+category-encoders
+joblib
+numpy
+packaging
+pandas
+rdt
+#sdv>=0.17,<0.18
+sentencepiece
+smart_open
+tqdm
+copulas
+sdmetrics
+graphviz
+cloudpickle
+ctgan
